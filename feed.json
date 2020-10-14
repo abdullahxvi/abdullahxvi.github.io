@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "abdullahxvi",
+    "description": "",
+    "home_page_url": "https://abdullahxvi.github.io",
+    "feed_url": "https://abdullahxvi.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "abdullah"
+    },
+    "items": [
+        {
+            "id": "https://abdullahxvi.github.io/hello-world.html",
+            "url": "https://abdullahxvi.github.io/hello-world.html",
+            "title": "Hello world",
+            "summary": "Hello world :)",
+            "content_html": "<p>Hello world :)</p>",
+            "author": {
+                "name": "abdullah"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-14T20:33:38+05:30",
+            "date_modified": "2020-10-14T20:33:38+05:30"
+        }
+    ]
+}
