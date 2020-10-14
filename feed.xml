@@ -3,12 +3,38 @@
     <title>abdullahxvi</title>
     <link href="https://abdullahxvi.github.io/feed.xml" rel="self" />
     <link href="https://abdullahxvi.github.io" />
-    <updated>2020-10-14T20:50:34+05:30</updated>
+    <updated>2020-10-14T21:21:01+05:30</updated>
     <author>
         <name>abdullah</name>
     </author>
     <id>https://abdullahxvi.github.io</id>
 
+    <entry>
+        <title>Group Icon generator </title>
+        <author>
+            <name>abdullah</name>
+        </author>
+        <link href="https://abdullahxvi.github.io/group-icon-generator.html"/>
+        <id>https://abdullahxvi.github.io/group-icon-generator.html</id>
+
+        <updated>2020-10-14T21:21:01+05:30</updated>
+            <summary>
+                <![CDATA[
+                     COURSE NUMBER: COURSE NAME: *Limited to 55 alphabetical characters incl. spaces GROUP CODE: 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://gist.githubusercontent.com/abdullahxvi/13932cdb24f356e56310beb13651d146/raw/4e9effd793b7f53c72bb29442e948e56b2fd6ea7/groupIconGenerator.js"></script>
+</p>
+<h1>Group Icon Generator</h1>
+<p> </p>
+<form method="POST">COURSE NUMBER: <input id="CNUM" style="text-transform: uppercase;" maxlength="8" type="text"><br><br>COURSE NAME: <input id="CNAME" style="text-transform: uppercase;" maxlength="55" pattern="[A-Za-z -]+$" type="text"> <br><label>*Limited to 55 alphabetical characters incl. spaces</label> <br><br>GROUP CODE: <input id="GPCODE" style="text-transform: uppercase;" maxlength="2" type="text"><br><br><input type="submit" value="Generate Icon"></form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test 3</title>
         <author>
